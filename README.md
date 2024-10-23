@@ -23,8 +23,7 @@ Here’s a sample of the types of projects I work on:
 
 ### Code Sample
 
-```javascript
-// Example of a basic JavaScript function
+
 function greetUser(name) {
     return `Hello, ${name}! Welcome to Sarrah Gandhi's projects.`;
 }
