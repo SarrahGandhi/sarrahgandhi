@@ -1,8 +1,5 @@
 # Sarrah Gandhi
 
-
-## About Me
-
 I am a web designer and developer with a passion for creating user-friendly applications. My experience spans graphic design and web design. I enjoy solving complex problems and experimenting with new technologies in my free time.
 
 ### Learn More
