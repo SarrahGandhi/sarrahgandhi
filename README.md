@@ -15,4 +15,3 @@ Here’s a sample of the types of projects I work on:
 1. **Web Design**: I build responsive, aesthetic websites with a focus on user experience.
 2. **Graphic Design**: Creating visually appealing designs, from logos to full web layouts.
 
-> ℹ️ **Note:** These projects are a part of my learning journey and are continuously updated. Feel free to explore and provide feedback.
