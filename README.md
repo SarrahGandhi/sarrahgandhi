@@ -1,10 +1,9 @@
-# Sarrah Gandhi's Projects
+# Sarrah Gandhi
 
-Welcome to **Sarrah Gandhi's Projects**! This repository contains a collection of personal projects and experiments in web development, design, and programming. Here you'll find code samples, design assets, and documentation for various projects I’ve worked on as a web and graphic designer.
 
 ## About Me
 
-I am a web designer and developer with a passion for creating user-friendly applications. My experience spans graphic design, frontend development, and backend architecture. I enjoy solving complex problems and experimenting with new technologies in my free time.
+I am a web designer and developer with a passion for creating user-friendly applications. My experience spans graphic design and web design. I enjoy solving complex problems and experimenting with new technologies in my free time.
 
 ### Learn More
 
@@ -20,12 +19,3 @@ Here’s a sample of the types of projects I work on:
 2. **Graphic Design**: Creating visually appealing designs, from logos to full web layouts.
 
 > ℹ️ **Note:** These projects are a part of my learning journey and are continuously updated. Feel free to explore and provide feedback.
-
-### Code Sample
-
-
-function greetUser(name) {
-    return `Hello, ${name}! Welcome to Sarrah Gandhi's projects.`;
-}
-
-console.log(greetUser("Visitor"));
