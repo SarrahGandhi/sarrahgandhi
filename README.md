@@ -2,7 +2,7 @@
 
 I am a web designer and developer with a passion for creating user-friendly applications. My experience spans graphic design and web design. I enjoy solving complex problems and experimenting with new technologies in my free time.
 
-[banner](https://github.com/user-attachments/assets/903b9cf7-3c65-41a5-91eb-ea49d02964af)
+https://github.com/user-attachments/assets/903b9cf7-3c65-41a5-91eb-ea49d02964af
 
 
 For more details, feel free to visit my portfolio website:  
