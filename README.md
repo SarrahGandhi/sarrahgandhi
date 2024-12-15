@@ -1,5 +1,5 @@
 # Sarrah Gandhi
-<img src="./banner.jpg" alt="This is my vibe. Welcome to my Github Account!" width="900" height="350">
+<img src="./banner.jpg" alt="This is my vibe. Welcome to my Github Account!">
 I am a web designer and developer with a passion for creating user-friendly applications. My experience spans graphic design and web design. I enjoy solving complex problems and experimenting with new technologies in my free time.
 
 https://github.com/user-attachments/assets/903b9cf7-3c65-41a5-91eb-ea49d02964af
